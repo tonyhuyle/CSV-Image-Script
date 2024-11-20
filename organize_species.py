@@ -6,7 +6,7 @@ import requests
 metadata = pd.read_csv('gulf_of_mexico.csv')  # Replace with your actual CSV file path
 
 # Create the main dataset directory
-main_dir = 'organized_fish_dataset'
+main_dir = 'organized_fish_species'
 os.makedirs(main_dir, exist_ok=True)
 
 # Dictionary to maintain counters for each species
