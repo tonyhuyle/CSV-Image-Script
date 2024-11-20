@@ -3,7 +3,8 @@
 The purpose of this script is to use iNaturalist exports including species name and image_urls to not only download the images, but also to sort them into their respective species folders.
 
 Ensure that python is properly installed
-Install libraries pandas and requests if not already installed.
+
+Install python libraries pandas and requests if not already installed.
 
 ![image](https://github.com/user-attachments/assets/626c21da-628f-4460-95a3-b441ae1862d0)
 
