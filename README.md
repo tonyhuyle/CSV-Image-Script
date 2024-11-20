@@ -19,7 +19,7 @@ Example of CSV
 
 ![image](https://github.com/user-attachments/assets/c0c15647-99dd-4e64-bd3f-5c1d94cba904)
 
-From there all that is left is to run the code by typing in the terminal "python file_name.py" and let it run
+From there all that is left is to run the code by typing in the terminal **"python file_name.py"** and let it run
 
 ![image](https://github.com/user-attachments/assets/d7815ca7-a9df-46dd-ae1a-e56584b77460)
 
