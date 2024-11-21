@@ -6,6 +6,9 @@ Ensure that python is properly installed
 
 Install python libraries pandas and requests if not already installed.
 
+ ```sh
+  pip install pandas requests
+  ```
 ![image](https://github.com/user-attachments/assets/626c21da-628f-4460-95a3-b441ae1862d0)
 
 
